@@ -1,0 +1,11 @@
+# virtual environment
+LLM_practice/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Claude Code (kept local, not published)
+CLAUDE.md
+CLAUDE.MD
+CLAUDE.local.md
+.claude/
